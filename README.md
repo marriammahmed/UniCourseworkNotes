@@ -24,4 +24,4 @@
 -Product Management<br/>
 -Embedded Systems<br/>
 
-<br/> <h2>DISCLAIMER</h2> DO NOT use these notes as your primary source of knowledge, kindly double check and verify the information in case it has become outdated. Please note spelling,gramatic and factual mistakes exist as these notes are mostly done past 12 am on 400mg of Caffeine :)
+<br/> <h2>DISCLAIMER</h2> DO NOT use these notes as your primary source of knowledge, kindly double check and verify the information in case it has become outdated. Please note spelling,grammatical and factual mistakes exist as these notes are mostly done past 12 am on 400mg of Caffeine :)
