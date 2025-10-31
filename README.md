@@ -1,4 +1,7 @@
-<h1>University Courses Notes</h1> <h2>Description</h2> This repository contains my handwritten notes from university courses. Each folder is organized by module for quick reference and study review. Notes include key concepts, diagrams, summaries, and exam-focused explanations. <br/> <h2>Foundational & Mathematics courses in order:</h2><br/>
+<h1>University Courses Notes</h1> <h2>Description</h2> This repository contains my handwritten notes from university courses. Each folder is organized by module for quick reference and study review. Notes include key concepts, diagrams, summaries, and exam-focused explanations. <br/>
+📘 <b>Click <a href="https://drive.google.com/drive/folders/1Q-YDwXNwvNlqPd_ZQ4YEy8tvOOoqY-Ry?usp=share_link">here</a> to view my notes on Google Drive.</b>
+
+<br/> <h2>Foundational & Mathematics courses in order:</h2><br/>
 -Calculus I & II<br/>
 -Physics I & II<br/>
 -Intro to Statistics for Engineers<br/>
